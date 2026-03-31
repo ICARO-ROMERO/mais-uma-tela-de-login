@@ -59,3 +59,17 @@ color: rgb(0, 140, 255);
 cursor: pointer;
 
 }
+
+p{
+text-align: center;
+margin-top: 20px;
+}
+p:nth-last-child(2){
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+a:nth-last-child(1){
+    color: black;
+    margin: 0px 220px;
+    
+}
